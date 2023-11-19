@@ -24,3 +24,7 @@ Key Features:
   6. Appointment: In an Entry-Exit Management System (EEMS), integrating an appointment scheduling option enhances the 
   system's functionality by allowing users to schedule visits in advance. This feature streamlines the check-in process and 
   improves overall visitor experience.
+
+Some screenshots of this project:
+![Picture1](https://github.com/Milandeep-Kaur/EEMS_Project/assets/113198884/21f78d17-c41b-42a7-8e5a-74d411a43008)
+
